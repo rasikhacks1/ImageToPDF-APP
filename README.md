@@ -8,5 +8,5 @@ An Android app that allows users to select multiple images and convert them into
 - Android SDK
 
 ## 📦 Download APK
-[Click to download the latest APK](app-release-unsigned.apk)
+[Click to download the latest APK](app-release.apk)
 
